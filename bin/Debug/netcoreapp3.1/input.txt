@@ -1,0 +1,5 @@
+FileA|txt|Admin|3|1
+FileB|txt|Admin|0|1
+FileE|txt|User|3|5
+FileC|docx|Moder|15|2
+FileE|txt|Moder|0|6
